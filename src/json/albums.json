@@ -1,0 +1,27 @@
+{
+   "albumTitle": "My Book",
+   "albumList": [
+      {
+         "title": "The Immortalists",
+         "artist": "Chloe Benjamin",
+         "image": "https://imgur.com/LnD1tGh.jpg",
+         "description":"If you were told the date of your death, how would it shape your…",
+         "completed":"50% completed",
+         "loading":"https://imgur.com/gnRg8PF.png"
+      },
+      {
+         "title": "Grist Mill Road",
+         "artist": "Christopher J.",
+         "description":"Twenty-six years ago Hannah had her eye shot out. Now she wants…",
+         "image": "https://imgur.com/arn2G92.jpg",
+         "loading":"https://imgur.com/DMkJMC6.png"
+         
+      },
+      {
+         "title": "Street Art Activity Book",
+         "artist": "Mitchell Beazley",
+         "description":" Street art is colorful, vibrant, diverse and exciting.Now, you can create…",
+         "image": "https://imgur.com/QaqIgrH.jpg"
+        
+      }
+]}
